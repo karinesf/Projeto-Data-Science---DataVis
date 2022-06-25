@@ -1,0 +1,7 @@
+Comentários em relação ao Dashboard
+
+Como era de se esperar, observando os gráficos de linha, é possível perceber um comportamento já esperado
+de que, quando a quantidade de usuários do site diminui, as transações também diminuem. Em contrapartida
+a receita aumenta, o que pode ser explicado pelo aumento de usuários e transações no blog.
+
+Este dashboard foi feito utilizando a ferramenta Power BI.
